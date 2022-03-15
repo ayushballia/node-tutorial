@@ -17,9 +17,6 @@
     "url": "https://github.com/ayushballia/node-tutorial/issues"
   },
   "homepage": "https://github.com/ayushballia/node-tutorial#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
   "devDependencies": {
     "nodemon": "^2.0.15"
   }
